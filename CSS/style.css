@@ -140,7 +140,7 @@ header{
     color: white;
 }
 
-.films{
+#films{
     padding: 60px 0 78px;
 }
 .title{
@@ -213,7 +213,7 @@ header{
     transition: 1s;
 }
 
-.premier{
+#premier{
     position: relative;
 }
 .premier__video{
@@ -240,8 +240,9 @@ header{
     text-align: justify;
 }
 
-.collections{
+#collections{
     padding: 62px 0;
+    transition: 2s;
 }
 .collections__cards-card{
     position: relative;
